@@ -1,0 +1,4 @@
+classes = 1
+train  = PHAT/zaloai/YOLOv4/darknet/data/train_single.txt
+names = PHAT/zaloai/YOLOv4/darknet/data/traffic_single.names
+backup = PHAT/zaloai/YOLOv4/darknet/backup/traffic_single

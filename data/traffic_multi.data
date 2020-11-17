@@ -1,0 +1,4 @@
+classes = 7
+train  = PHAT/zaloai/YOLOv4/darknet/data/train_multi.txt
+names = PHAT/zaloai/YOLOv4/darknet/data/traffic_multi.names
+backup = PHAT/zaloai/YOLOv4/darknet/backup/traffic_multi
